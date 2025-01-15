@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://3ommffqjjvy4"]
+
+[ext_resource type="PackedScene" uid="uid://dqler4eqw7bn8" path="res://scenes/matrix.tscn" id="1_kxjna"]
+
+[node name="playground" type="Node2D"]
+
+[node name="Matrix" parent="." instance=ExtResource("1_kxjna")]
