@@ -151,4 +151,4 @@ frame = 14
 libraries = {
 "": SubResource("AnimationLibrary_fli4w")
 }
-autoplay = "idle_up"
+autoplay = "walk_side"
